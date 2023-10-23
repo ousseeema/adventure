@@ -93,7 +93,7 @@ class infopage extends StatelessWidget {
            Container(
             child: Text("Update Your Account "),
             decoration: BoxDecoration(
-              color: Colors.pu
+             
             ),
 
            )
