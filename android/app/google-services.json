@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757172875687",
+    "project_id": "cloudfunction-39ae2",
+    "storage_bucket": "cloudfunction-39ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757172875687:android:25a8f6df27758317978682",
+        "android_client_info": {
+          "package_name": "com.example.adventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757172875687-o8c24sioq5g3c89a2votsqhlq4c5g7h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-qxMa2BYjSXg8nBsyQtd8jvQi36M31eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757172875687-o8c24sioq5g3c89a2votsqhlq4c5g7h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
